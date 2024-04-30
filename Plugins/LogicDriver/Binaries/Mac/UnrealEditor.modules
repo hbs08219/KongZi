@@ -1,0 +1,15 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"SMAssetTools": "UnrealEditor-SMAssetTools.dylib",
+		"SMContentEditor": "UnrealEditor-SMContentEditor.dylib",
+		"SMExtendedEditor": "UnrealEditor-SMExtendedEditor.dylib",
+		"SMExtendedRuntime": "UnrealEditor-SMExtendedRuntime.dylib",
+		"SMPreviewEditor": "UnrealEditor-SMPreviewEditor.dylib",
+		"SMSearch": "UnrealEditor-SMSearch.dylib",
+		"SMSystem": "UnrealEditor-SMSystem.dylib",
+		"SMSystemEditor": "UnrealEditor-SMSystemEditor.dylib",
+		"SMUtilityLauncher": "UnrealEditor-SMUtilityLauncher.dylib"
+	}
+}
